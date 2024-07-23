@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TownScene.unity
+    guid: 70485e557c52ae542b37316000ff54ed
+  - enabled: 1
+    path: Assets/Scenes/HilltopScene.unity
+    guid: ef8f70d2659729a47a7ced172f09ed9b
+  - enabled: 1
+    path: Assets/Scenes/WaterfrontScene.unity
+    guid: 49fa5942b6724e04abdf6765dfe82e9a
   m_configObjects: {}
